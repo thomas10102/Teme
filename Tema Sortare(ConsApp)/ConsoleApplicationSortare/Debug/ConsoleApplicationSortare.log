@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationSortare.cpp
+c:\users\user\desktop\tema sortare\consoleapplicationsortare\consoleapplicationsortare.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplicationSortare.vcxproj -> C:\Users\User\Desktop\Tema Sortare\Debug\ConsoleApplicationSortare.exe

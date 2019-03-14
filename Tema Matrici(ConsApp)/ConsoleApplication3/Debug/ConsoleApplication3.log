@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication3.cpp
+c:\users\user\desktop\tema matrici(6 ex)\consoleapplication3\consoleapplication3.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\tema matrici(6 ex)\consoleapplication3\consoleapplication3.cpp(222): warning C4101: 'y': unreferenced local variable
+  ConsoleApplication3.vcxproj -> C:\Users\User\Desktop\Tema Matrici(6 EX)\Debug\ConsoleApplication3.exe
